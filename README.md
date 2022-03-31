@@ -1,2 +1,2 @@
 # rsschool-cv-test
-my cv
+# my super cv
